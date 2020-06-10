@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/VANESA/Documents/Gabriel/Dev/Lab-MTP/EX1/main.cpp
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+
